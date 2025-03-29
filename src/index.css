@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.swiper-pagination{
+    top: 0 !important;
+    height: fit-content;
+}
+
+.swiper-button-prev, .swiper-button-next{
+    color: white !important;
+}
